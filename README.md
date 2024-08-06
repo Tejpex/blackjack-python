@@ -1,2 +1,2 @@
 # blackjack-python
-A game of Blackjack played in the terminal
+A game of Blackjack played in the terminal.
